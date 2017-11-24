@@ -1,0 +1,4 @@
+This RFS can be used for any 64-bit Allwinner boards with
+below changes
+- Copy respetive Image and dtb on boot/
+- Update boot/extlinux/extlinx.conf with respective dtb
